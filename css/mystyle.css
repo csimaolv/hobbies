@@ -1,0 +1,29 @@
+body {
+    font-family: Montserrat, sans-serif;
+    background-color: #F6F4F6;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+header div {
+    background-image: url("../images/Header.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+    width: 650px;
+    padding: 6rem;
+    color: #707070;
+}
+
+header div h2 {
+    font-weight: 400;
+}
+
+.hobby {
+    background-image: url("../images/flower.png");
+    background-repeat: no-repeat;
+    background-size: 19%;
+}
